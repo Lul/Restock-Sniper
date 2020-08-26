@@ -4,8 +4,8 @@ This program was created with the intention to providing a solution to anyone se
 Any questions, or if there are websites you want added, feel free to email me at *johnthiell@gmail.com*.
 
 # Usage
-**1)** Install **Selenium**. `pip3 install selenium`
-**2)** Download appropriate webdriver from *https://pypi.org/project/selenium/* for the matching browser of your choice. ***WARNING: SAFARI NOT SUPPORTED***
+**1)** Install **Selenium**. `pip3 install selenium`\
+**2)** Download appropriate webdriver from *https://pypi.org/project/selenium/* for the matching browser of your choice. ***WARNING: SAFARI NOT SUPPORTED***\
 **3)** Create a file named **websites.txt**, this will serve as the list of items you want sniped.\
 **4)** Insert the direct URLs to which items you want to be notified about upon restock.
 
