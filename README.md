@@ -9,7 +9,7 @@ Any questions, or if there are websites you want added, feel free to email me at
 **3)** Create a file named **websites.txt**, this will serve as the list of items you want sniped.\
 **4)** Insert the direct URLs of the items in which you want to be notified about upon restock.
 
-Your **websites.txt** is backed up as **websites.bak** upon every execution of this program.
+Your **websites.txt** is backed up as **websites.bak** upon execution of this program.
 
 # Creating Your Own Definitions
 To create your own definition, you first need to examine the 'sold out' element on the webpage of the item you are trying to snipe.\
